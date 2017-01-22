@@ -1,6 +1,6 @@
-# New Site Template
+﻿# Сайт в оффлайн
 
-[TODO. There will be project description]
+Все зависимости с шаблона http://getbootstrap.com/examples/jumbotron/ перенесены в репозиторий с кодом. Это позволяет разрабатывать сайт в режиме оффлайн.
 
 # Project Goals
 
